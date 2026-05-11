@@ -1,0 +1,6 @@
+*.db
+*.db-shm
+*.db-wal
+*.v2
+/Estruturais/FacadeEx/.vs
+*.cache
