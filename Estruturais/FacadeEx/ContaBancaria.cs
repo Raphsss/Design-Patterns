@@ -10,12 +10,12 @@ namespace FacadeEx
     {
         public string NumeroConta { get; }
         public string Titular { get; }
-        public decimal Saldo { get; private set; }
+        private decimal Saldo { get; set; }
 
-        public ContaBancaria(string NumeroConta, string Titular)
+        public ContaBancaria(string numeroConta, string titular)
         {
-            this.NumeroConta = NumeroConta;
-            this.Titular = Titular;
+            NumeroConta = numeroConta;
+            Titular = titular;
         }
 
         public void Depositar(decimal valor)
