@@ -6,3 +6,6 @@
 *.cache
 /Criacionais/FactoryMethodEx/.vs
 /Criacionais/FactoryMethodEx/obj
+*.vsidx
+/Criacionais/AbsctractFactoryEx/.vs
+/Criacionais/AbsctractFactoryEx/obj
