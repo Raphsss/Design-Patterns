@@ -9,3 +9,10 @@
 *.vsidx
 /Criacionais/AbsctractFactoryEx/.vs
 /Criacionais/AbsctractFactoryEx/obj
+*.pdb
+/Comportamentais/StrategyEx/.vs
+*.dll
+/Comportamentais/StrategyEx/bin
+/Comportamentais/StrategyEx/obj
+/Criacionais/SingletonEx/.vs
+/Criacionais/SingletonEx/.vs

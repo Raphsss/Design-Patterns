@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingletonEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86602dc956d58f7cf0d760e26ae3c757a961fbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cc50b3d35d3354c3ab8d75cde3e9b0455b5a927")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingletonEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingletonEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

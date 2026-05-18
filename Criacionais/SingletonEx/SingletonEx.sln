@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.37111.16 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonEx", "SingletonEx.csproj", "{142FF4F3-FCBF-4B6E-811B-AD9C27AB13CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyEx", "..\..\Comportamentais\StrategyEx\StrategyEx.csproj", "{241B7EA7-82E7-4A5A-BD05-B5E2AEE37E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{142FF4F3-FCBF-4B6E-811B-AD9C27AB13CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{142FF4F3-FCBF-4B6E-811B-AD9C27AB13CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{142FF4F3-FCBF-4B6E-811B-AD9C27AB13CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241B7EA7-82E7-4A5A-BD05-B5E2AEE37E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241B7EA7-82E7-4A5A-BD05-B5E2AEE37E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241B7EA7-82E7-4A5A-BD05-B5E2AEE37E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241B7EA7-82E7-4A5A-BD05-B5E2AEE37E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
