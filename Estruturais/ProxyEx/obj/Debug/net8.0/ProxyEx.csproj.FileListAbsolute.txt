@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\bin\Debug\net8.0\ProxyEx.exe
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\bin\Debug\net8.0\ProxyEx.deps.json
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\bin\Debug\net8.0\ProxyEx.runtimeconfig.json
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\bin\Debug\net8.0\ProxyEx.dll
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\bin\Debug\net8.0\ProxyEx.pdb
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.AssemblyInfo.cs
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.sourcelink.json
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.dll
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\refint\ProxyEx.dll
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.pdb
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ProxyEx.genruntimeconfig.cache
+C:\Users\Administrador\Documents\raphaRepos\Design Patterns\Estruturais\ProxyEx\obj\Debug\net8.0\ref\ProxyEx.dll

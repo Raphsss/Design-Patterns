@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace AbsctractFactoryEx.Concretes
 {
-    internal class SqlQuery : IDBQuery
+    public class SqlQuery : IDBQuery
     {
+        public void Executar()
+        {
+            Console.WriteLine("Executando query sql.");
+        }
     }
 }

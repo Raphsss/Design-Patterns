@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FacadeEx")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProxyEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4e6521f0a7a3718a24fa7fe1c4cdb2688f97f2")]
-[assembly: System.Reflection.AssemblyProductAttribute("FacadeEx")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FacadeEx")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProxyEx")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProxyEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
